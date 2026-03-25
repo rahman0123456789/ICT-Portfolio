@@ -1,5 +1,5 @@
 # My ICT-Portfolio
  Name : Abdul Rahman
- Program : BSSE
+ Program : BS(Software Engineering)
  Semester : 1
 ICT (Information and Communication Technology) 
